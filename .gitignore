@@ -27,3 +27,16 @@
 *.exe
 *.out
 *.app
+/Debug/
+/Archive/
+/A.csv
+/Archive.bat
+/club.dat
+/common_names.dat
+/Conversions.txt
+/first_names.dat
+/grab.php
+/index.dat
+/second_names.dat
+/staff.dat
+/Tasks.xlsx
