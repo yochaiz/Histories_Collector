@@ -7,6 +7,7 @@
 	sortPlayerHistoryURL(playerPageStr);
 	detectPageType(url, "/spieler/", "/wettbewerb/");
 }
+
 void Transfermarkt::extractPosition(int val) {
 	outputFile
 			<< "First Name,Last Name,Common Name,DOB,Nation1,Nation2,Contract start,Contract end,Value,Club,On loan from,GK,SW,D,DM,M,AM,ST,WB,FR,Right,Left,Center,Right Foot,Left Foot,Int Caps,Int Goals"
